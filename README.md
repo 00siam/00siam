@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Siam</h1>
+<h1 align="center">Hi 👋, I'm Qazi Masrafi Rahman Siam</h1>
 <h3 align="center">A passionate frontend developer.</h3>
+
+- 🔭 I’m currently working on [Vetenary Shop](https://github.com/00siam/vetenaryShop)
+
+- 🌱 I’m currently learning **React js**
+
+- 👯 I’m looking to collaborate on [Safe Energy Tech](https://github.com/baustahmed/safeEnergyTech)
+
+- 📫 How to reach me **baust.cse.200201018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
